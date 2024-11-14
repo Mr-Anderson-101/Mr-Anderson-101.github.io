@@ -1,0 +1,12 @@
+* {
+    color: white;
+}
+
+body {
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.80),
+            rgba(0, 0, 0, 0.80)
+        ),
+        url(https://wallpaperset.com/w/full/9/6/7/97558.jpg)
+}
