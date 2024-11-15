@@ -25,6 +25,8 @@ body {
 
 .title h1 {
     padding-bottom: 15px;
+    font-family: monospace;
+    font-size: 28pt;
 }
 
 section {
